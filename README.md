@@ -17,4 +17,4 @@ It is suspected by our agents and operatives that the individuals are attempting
 GNAA agent 'harun', and the collaborative work of 10 anonymous GNAA agents in this troll-op.
 
 
-in the meantime, please join their server and help us fight for civil rights today: discord.gg/shhh
+# in the meantime, please join their server and help us fight for civil rights today: https://discord.gg/shhh
