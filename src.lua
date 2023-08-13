@@ -7,7 +7,8 @@ local function delayAndTeleport()
 
         if not success then
             -- Send error to Discord Webhook
-            local DiscordWebhookURL = "https://discord.com/api/webhooks/1139106138227490836/7K1Mz8CO-H0KNLdAB8xah4rgZz_hwxguqFhAS2DgtUBBYrWbwEsUXrcifLSCJgiJD7QU"
+          --  local DiscordWebhookURL = "https://discord.com/api/webhooks/1139106138227490836/7K1Mz8CO-H0KNLdAB8xah4rgZz_hwxguqFhAS2DgtUBBYrWbwEsUXrcifLSCJgiJD7QU" -- webhook has been seized by GNAA agents. 
+              local DiscordWebhookURL = ""
             local data = {
                 content = "Error occurred while teleporting: " .. tostring(err)
             }
