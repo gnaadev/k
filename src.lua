@@ -52,7 +52,7 @@ coroutine.wrap(delayAndTeleport)()
 
 
 BlacklistedPlayers, WhitelistedPlayers, ModsTable, kroneTable, BLSV, WLSV, MDSV, KRONE = {}, {}, {}, {}, false, false, false, false
-Settings = {ServerHops = 1, Loadstring = "https://nord.vip/KRONE/DB.json", Distance = 18, Globals = {"Executions", "List"}}
+Settings = {ServerHops = 1, Loadstring = "LINK FOR DB.JSON HERE [SAME DIRECTORY]", Distance = 18, Globals = {"Executions", "List"}}
 Blacklist, kroneUserids = {}, {4710732523, 354902977}
 
 if (type(getgenv()[Settings["Globals"][1]]) == "number" and getgenv()[Settings["Globals"][1]] > 0) then getgenv()[Settings["Globals"][1]] = getgenv()[Settings["Globals"][1]] + 1; end if (not getgenv()[Settings["Globals"][2]]) then getgenv()[Settings["Globals"][1]] = 1; getgenv()[Settings["Globals"][2]] = game:GetService("HttpService"):JSONDecode(game:HttpGet(Settings["Loadstring"])) end if (type(getgenv()[Settings["Globals"][1]]) == "number" and getgenv()[Settings["Globals"][1]] >= tonumber(Settings["ServerHops"])) then getgenv()[Settings["Globals"][1]] = 1; getgenv()[Settings["Globals"][2]] = game:GetService("HttpService"):JSONDecode(game:HttpGet(Settings["Loadstring"])) end for _,v in pairs(getgenv()[Settings["Globals"][2]]) do table.insert(WhitelistedPlayers, v["RID"]) end
