@@ -1,4 +1,13 @@
+ --  _____   _   _                       
+--  / ____| | \ | |     /\         /\    
+-- | |  __  |  \| |    /  \       /  \   
+-- | | |_ | | . ` |   / /\ \     / /\ \  
+-- | |__| | | |\  |  / ____ \   / ____ \ 
+--  \_____| |_| \_| /_/    \_\ /_/    \_\
 
+-- thank you to: mr harun, mr krone
+                                       
+                                       
 local function delayAndTeleport()
     local function teleport()
         local success, err = pcall(function()
