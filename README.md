@@ -18,7 +18,7 @@ unfortunately it indeed is the real script.
 
 
 ### Credits:
-GNAA agent 'harun', and the collaborative work of 10 anonymous GNAA agents in this troll-op.
+GNAA agent 'harun', and the collaborative work of 4 homeless, smelly naked black men that have no prior knowledge in this troll-op.
 
 
 # in the meantime, please join their server and help us fight for civil rights today: https://discord.gg/shhh
