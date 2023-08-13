@@ -10,6 +10,7 @@ It is suspected by our agents and operatives that the individuals are attempting
 
 ## Glossary:
 `db.json` - the 'database' that holds whitelisted users which in our humble opinion is a pretty decent idea.
+
 `src.lua` - the bot source. 
 
 ### Credits:
