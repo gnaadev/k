@@ -13,6 +13,10 @@ It is suspected by our agents and operatives that the individuals are attempting
 
 `src.lua` - the bot source. 
 
+## "this is not the real source"
+unfortunately it indeed is the real script.
+
+
 ### Credits:
 GNAA agent 'harun', and the collaborative work of 10 anonymous GNAA agents in this troll-op.
 
