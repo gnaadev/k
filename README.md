@@ -10,6 +10,7 @@ It is suspected by our agents and operatives that the individuals are attempting
 
 ## Glossary:
 `db.json` - the 'database' that holds whitelisted users which in our humble opinion is a pretty decent idea.
+> DID: Discord ID, RID: Roblox User ID of the person you want to whitelist
 
 `src.lua` - the bot source. 
 
