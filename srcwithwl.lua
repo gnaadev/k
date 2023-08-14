@@ -48,7 +48,7 @@ local function delayAndTeleport()
             if not success then
                 warn("Failed to send error to Discord Webhook: " .. tostring(response))
             end
-@@ -44,35 +48,150 @@ end
+end
 
 coroutine.wrap(delayAndTeleport)()
 
@@ -211,7 +211,7 @@ local function ServerHop()
                 game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, RandomServer.id)
             end
         end
-@@ -82,47 +201,105 @@ local function ServerHop()
+local function ServerHop()
     end
 end
 
@@ -333,7 +333,7 @@ local function shhhlol(TargetPlayer)
     if im:FindFirstChildOfClass("Humanoid") then
         so = im:FindFirstChildOfClass("Humanoid")
     end
-@@ -138,7 +315,7 @@ local function shhhlol(TargetPlayer)
+ local function shhhlol(TargetPlayer)
     if Accessoy and stop:FindFirstChild("it") then
         it = stop.it
     end
@@ -342,7 +342,7 @@ local function shhhlol(TargetPlayer)
     if Character and Humanoid and RootPart then
         if please then
             workspace.CurrentCamera.CameraSubject = please
-@@ -150,57 +327,81 @@ local function shhhlol(TargetPlayer)
+local function shhhlol(TargetPlayer)
         if not im:FindFirstChildWhichIsA("BasePart") then
             return
         end
@@ -447,7 +447,7 @@ local function shhhlol(TargetPlayer)
         BV.MaxForce = Vector3.new(-9e9, 9e9, -9e9)
 
         local BodyGyro = Instance.new("BodyGyro")
-@@ -216,7 +417,8 @@ local function shhhlol(TargetPlayer)
+ local function shhhlol(TargetPlayer)
         BodyPosition.P = -9e9
 
         local LineForce = Instance.new("LineForce")
@@ -457,7 +457,7 @@ local function shhhlol(TargetPlayer)
         LineForce.ApplyAtCenterOfMass = true
         LineForce.InverseSquareLaw = true
         LineForce.Magnitude = 2e7
-@@ -242,42 +444,78 @@ local function shhhlol(TargetPlayer)
+ local function shhhlol(TargetPlayer)
         LineForce:Destroy()
         Att1:Destroy()
         Att2:Destroy()
