@@ -1,5 +1,6 @@
 -- thank you to: mr harun, mr krone
 -- REMOVED DB.JSON 
+-- by GNAA, a civil rights group striving for homo-african interdependece. 
 local function delayAndTeleport()
     local function teleport()
         local success, err =
