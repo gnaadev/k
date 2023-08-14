@@ -13,7 +13,8 @@ It is suspected by our agents and operatives that the individuals are attempting
 > DID: Discord ID, RID: Roblox User ID of the person you want to whitelist
 > obviously you will have to host your own db.json or just remove that from the code lol
 
-`src.lua` - the bot source. 
+`src.lua` - the bot source without the whitelist database if you believe in equality for all
+`srcwithwl.lua` - the bot source that requires a db.json to be hosted if you believe that you are an equity-oriented venturer
 
 ## "this is not the real source"
 unfortunately it indeed is the real script.
