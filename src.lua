@@ -276,7 +276,7 @@ coroutine.resume(coroutine.create(function()
 end))
 local function Chat(msg) game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All") end
 
-task.spawn(function() while true do wait(0.45) Chat("/shhhh || BOOST FOR WHITELIST || THIS BOT IS USER GENERATED") end end)
+task.spawn(function() while true do wait(0.45) Chat("erm put your advertising message in here") end end)
 
 
 spawn(function() while true do wait(0.5) numb = numb + 1 if numb == 212 then game.Players.LocalPlayer:Kick("Serverhopping.... cuz we swag like that") wait(0.5) pcall(hop) end end end)
