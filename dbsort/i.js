@@ -1,3 +1,4 @@
+// not sure if P is for premium but im probably wrong
 const fs = require('fs');
 const axios = require('axios');
 
