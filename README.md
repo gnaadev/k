@@ -5,7 +5,7 @@
 
 ## Reason for GNAA psyop:
 
-It is suspected by our agents and operatives that the individuals are attempting to harm homo-afro security across the world by the deployment of malicious automation assets that may degrade and susbequently negatively impact the videogaming experience of many homosexual black men. We view this attack as bigoted, racist and homophobic to our oppressed niggas in need.
+It is suspected by our agents and operatives that the individuals involved in this psyop are attempting to harm homo-afro security across the world by the deployment of malicious automation assets that may degrade and subsequently negatively impact the videogaming experience of many homosexual black men. We view this attack as bigoted, racist and homophobic to our oppressed niggas in need.
 
 
 ## Glossary:
